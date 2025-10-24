@@ -1,3 +1,4 @@
+// Ingrese una letra y muestre su valor ASCII
 Función resultado <- Ascii(letra)
 	Definir codigoAscii, resultado, i Como Entero
 	codigoAscii <- 0
