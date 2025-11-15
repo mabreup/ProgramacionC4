@@ -1,0 +1,5 @@
+#Solicita dos números reales y muestra su promedio.
+num1 = float(input("Ingresa el primer número real: "))
+num2 = float(input("Ingresa el segundo número real: "))
+promedio = (num1 + num2) / 2
+print("El promedio de los números es", promedio)
